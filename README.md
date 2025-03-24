@@ -79,7 +79,6 @@ This project conducts a comprehensive analysis of India's COVID-19 dataset, deli
 📩 Email: [gokulyrk@gmail.com](mailto:gokulyrk@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/k-gokul](https://www.linkedin.com/in/k-gokul/)  
 
-
-
+---
 
 
