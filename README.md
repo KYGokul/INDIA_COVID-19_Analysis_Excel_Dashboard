@@ -13,7 +13,7 @@ The primary goal of this project is to analyze **COVID-19 data in India** to ide
 🖥️ **Developing an interactive Excel dashboard** to visualize and communicate critical insights for data-driven decision-making.
 
 ## Dataset Description
-1. COVID-19 Cases Dataset
+#### 1. COVID-19 Cases Dataset
 This dataset provides detailed information on the daily reported cases of COVID-19 in India, including confirmed cases, recoveries, and deaths.
 - **Sno**: Serial number.
 - **Date**: Date of record.
@@ -25,7 +25,7 @@ This dataset provides detailed information on the daily reported cases of COVID-
 - **Deaths**: Number of deaths.
 - **Confirmed**: Total number of confirmed cases.
 
-2. COVID-19 Vaccination Dataset
+#### 2. COVID-19 Vaccination Dataset
 This dataset tracks the progress of the COVID-19 vaccination campaign in India, including details on the number of doses administered.
 - **Updated On**: Date of the data entry.
 - **State**: Name of the state or union territory.
@@ -37,7 +37,7 @@ This dataset tracks the progress of the COVID-19 vaccination campaign in India, 
 - **Male/Female/Transgender (Doses Administered)**: Breakdown of doses administered by gender.
 - **Age group details**: Number of doses administered in different age groups.
   
-3. Statewise Testing Dataset
+#### 3. Statewise Testing Dataset
 This dataset provides information on the COVID-19 testing conducted in various states of India, including the total number of tests and the number of positive cases.
 - **Date**: Date of the data record.
 - **State**: Name of the state or union territory.
