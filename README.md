@@ -1,1 +1,3 @@
 # INDIA_COVID-19_Analysis_Excel_Dashboard
+## Overview
+This project involves a comprehensive analysis of **COVID-19 data in India** using **Microsoft Excel**, aiming to uncover key trends and patterns in the pandemic's progression. It examines critical factors such as **case growth, testing efficiency, vaccination rates, and mortality trends**, providing data-driven insights into the spread and recovery dynamics. The analysis culminates in the development of an **interactive Excel dashboard**, enabling **policymakers, healthcare professionals, and researchers** to monitor pandemic trends and make informed decisions for effective response and management.
