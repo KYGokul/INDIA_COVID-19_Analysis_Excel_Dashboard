@@ -45,8 +45,7 @@ This dataset provides information on the COVID-19 testing conducted in various s
 - **Negative**: Number of negative test results.
 - **Positive**: Number of positive test results.
 
-## Excel Data Analysis: Data Cleaning, Data Manipulations and Functions
-## **Excel Data Analysis: COVID-19 Trends and Insights**
+## Excel Data Analysis: Data Cleaning, Data Manipulations and Insights
 
 ### **Key Analysis Tasks**
 
@@ -65,4 +64,21 @@ This dataset provides information on the COVID-19 testing conducted in various s
 - 📅 **Seasonal Trends:** Examined whether COVID-19 cases followed any seasonal patterns.  
 - 📌 **Geospatial Insights:** Visualized regional case distribution using Excel maps.  
 - 📈 **Trend Forecasting:** Used Excel's forecasting tools to predict future case and vaccination trends.
+
+
+## Dashboard
+
+![Excel Dashboard](https://github.com/user-attachments/assets/5cf22acf-9a1e-4cc3-95d4-14f9acef1876)
+
+## Conclusion
+
+This project conducts a comprehensive analysis of India's COVID-19 dataset, delivering actionable insights into the pandemic's progression and impact. Utilizing Microsoft Excel, key trends in case growth, testing rates, vaccination progress, and mortality patterns were identified. The interactive dashboard serves as a strategic tool for policymakers, healthcare professionals, and researchers, enabling data-driven decision-making for effective pandemic management and response.
+
+##  Contact
+
+📩 Email: [gokulyrk@gmail.com]
+🔗 LinkedIn: [https://www.linkedin.com/in/k-gokul/]
+
+
+
 
